@@ -5,26 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afdb4d41-0e84-45bf-add3-bbbdc255238e" name="Changes" comment="lab 1 pytoon">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytoon/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytoon/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytoon/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytoon/.idea/pytoon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytoon/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/c_lab1/.idea/.idea.c_lab1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/.idea/.idea.c_lab1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/bin/Debug/net8.0/c_lab1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/c_lab1.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/ref/c_lab1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/ref/c_lab1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/refint/c_lab1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/c_lab1/c_lab1/obj/Debug/net8.0/refint/c_lab1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/bin/Debug/net8.0/с_lab1.1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/ref/с_lab1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/ref/с_lab1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/refint/с_lab1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/refint/с_lab1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/с_lab1.1/с_lab1.1/obj/Debug/net8.0/с_lab1.1.sourcelink.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,29 +46,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tOnH0iJtkmLpMzc9rF7vOBRjSe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python._virtualenv.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python._virtualenv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1740231896918</updated>
       <workItem from="1740231898031" duration="1884000" />
+      <workItem from="1740348371434" duration="387000" />
+      <workItem from="1740944512912" duration="101000" />
     </task>
     <servers />
   </component>
@@ -93,6 +100,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$_virtualenv.coverage" NAME="_virtualenv Coverage Results" MODIFIED="1740231930720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages" />
-    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1740245157759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1740348694083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

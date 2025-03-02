@@ -13,7 +13,7 @@ def generate_shots(num_shots, R):
     for _ in range(num_shots):
         x = random.uniform(-R, R)  # Випадкове число в межах від -R до R
         y = random.uniform(-R, R)
-        shots.append((round(x, 2), round(y, 2)))  # Округлюємо для красивого виводу
+        shots.append((round(x, 2), round(y, 2)))
     return shots
 
 
