@@ -1,0 +1,15 @@
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.AssemblyInfoInputs.cache
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.AssemblyInfo.cs
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.csproj.CoreCompileInputs.cache
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.sourcelink.json
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\bin\Debug\net8.0\lab2_2.exe
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\bin\Debug\net8.0\lab2_2.deps.json
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\bin\Debug\net8.0\lab2_2.runtimeconfig.json
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\bin\Debug\net8.0\lab2_2.dll
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\bin\Debug\net8.0\lab2_2.pdb
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.dll
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\refint\lab2_2.dll
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.pdb
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\lab2_2.genruntimeconfig.cache
+D:\Навчання\Лабараторні\c#\c_lab2\lab2_2\lab2_2\obj\Debug\net8.0\ref\lab2_2.dll
