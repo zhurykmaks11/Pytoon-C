@@ -8,7 +8,7 @@ class Program
         bool insideCircle = distance < R * R;
         bool onCircle = distance == R * R;
 
-        bool inShadedArea = (x <= 0 && y >= 0) || (x <= 0 && y <= 0 || (x > 0 && y > 0)); // II та IV чверті
+        bool inShadedArea = (x <= 0 && y >= 0) || (x <= 0 && y <= 0 || (x > 0 && y > 0)); 
 
         if (onCircle)
         {

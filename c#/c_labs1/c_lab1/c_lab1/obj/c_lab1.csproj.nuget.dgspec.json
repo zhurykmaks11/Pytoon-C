@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Навчання\\Лабараторні\\c#\\c_lab1\\c_lab1\\c_lab1.csproj": {}
+    "D:\\Навчання\\Лабараторні\\c#\\c_labs1\\c_lab1\\c_lab1\\c_lab1.csproj": {}
   },
   "projects": {
-    "D:\\Навчання\\Лабараторні\\c#\\c_lab1\\c_lab1\\c_lab1.csproj": {
+    "D:\\Навчання\\Лабараторні\\c#\\c_labs1\\c_lab1\\c_lab1\\c_lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Навчання\\Лабараторні\\c#\\c_lab1\\c_lab1\\c_lab1.csproj",
+        "projectUniqueName": "D:\\Навчання\\Лабараторні\\c#\\c_labs1\\c_lab1\\c_lab1\\c_lab1.csproj",
         "projectName": "c_lab1",
-        "projectPath": "D:\\Навчання\\Лабараторні\\c#\\c_lab1\\c_lab1\\c_lab1.csproj",
+        "projectPath": "D:\\Навчання\\Лабараторні\\c#\\c_labs1\\c_lab1\\c_lab1\\c_lab1.csproj",
         "packagesPath": "C:\\Users\\Користувач\\.nuget\\packages\\",
-        "outputPath": "D:\\Навчання\\Лабараторні\\c#\\c_lab1\\c_lab1\\obj\\",
+        "outputPath": "D:\\Навчання\\Лабараторні\\c#\\c_labs1\\c_lab1\\c_lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Користувач\\AppData\\Roaming\\NuGet\\NuGet.Config",

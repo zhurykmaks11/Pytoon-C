@@ -15,9 +15,18 @@ class ChessGame
                 return false;
         }
     }
-
     static void Main()
     {
+        char[,] board = new char[8, 8];
+        for (int y = 0; y < 8; y++)
+        {
+            for (int x = 0; x < 8; x++)
+            {
+                board[y, x] = (x + y) % 2 == 0 ? '.' : ',';
+            }
+
+        }
+
         // Введення координат
         Console.Write("Введіть координати білого ферзя (x y): ");
         int[] whiteQueen = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
@@ -28,12 +37,31 @@ class ChessGame
         Console.Write("Введіть координати чорного ферзя (x y): ");
         int[] blackQueen = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 
-        // Перевірка коректності введених даних
-        if (!IsValidPosition(whiteQueen) || !IsValidPosition(blackKing) || !IsValidPosition(blackQueen))
+        whiteQueen[0]--; whiteQueen[1]--;
+        blackQueen[0]--; blackQueen[1]--;
+        blackKing[0]--;  blackKing[1]--;
+
+        board[whiteQueen[1], whiteQueen[0]] = 'W';
+        board[blackKing[1], blackKing[0]] = 'K';
+        board[blackQueen[1], blackQueen[0]] = 'B';
+
+        Console.WriteLine("\n  1 2 3 4 5 6 7 8 ");
+        for (int y = 7; y >= 0; y--)
         {
-            Console.WriteLine("Некоректне розташування фігур: координати мають бути від 1 до 8.");
-            return;
+            Console.Write((y + 1) + " ");
+            for (int x = 0; x < 8; x++)
+            {
+                Console.Write(board[x, y] + " ");
+            }
+
+            Console.WriteLine();
         }
+        // //Перевірка коректності введених даних
+        // if (!IsValidPosition(whiteQueen) || !IsValidPosition(blackKing) || !IsValidPosition(blackQueen))
+        // {
+        //     Console.WriteLine("Некоректне розташування фігур: координати мають бути від 1 до 8.");
+        //     return;
+        // }
 
         if (AreSamePosition(whiteQueen, blackKing) || AreSamePosition(whiteQueen, blackQueen) || AreSamePosition(blackKing, blackQueen))
         {
@@ -42,13 +70,13 @@ class ChessGame
         }
 
         // Вибір першого ходу
-        Console.Write("Введіть, яка фігура ходить першою (БФ, ЧК, ЧФ): ");
+        Console.Write("Введіть, яка фігура ходить першою (W, K, B): ");
         string firstMove = Console.ReadLine();
 
         // Логіка ходів
         switch (firstMove)
         {
-            case "БФ":
+            case "W":
                 if (CanAttack(whiteQueen[0], whiteQueen[1], blackKing[0], blackKing[1], "Ферзь"))
                     Console.WriteLine("Білий ферзь здійснює напад на чорного короля.");
                 else if (CanAttack(whiteQueen[0], whiteQueen[1], blackQueen[0], blackQueen[1], "Ферзь"))
@@ -57,14 +85,14 @@ class ChessGame
                     Console.WriteLine("Білий ферзь зробив простий хід.");
                 break;
 
-            case "ЧФ":
+            case "B":
                 if (CanAttack(blackQueen[0], blackQueen[1], whiteQueen[0], whiteQueen[1], "Ферзь"))
                     Console.WriteLine("Чорний ферзь здійснює напад на білого ферзя.");
                 else
                     Console.WriteLine("Чорний ферзь зробив простий хід.");
                 break;
 
-            case "ЧК":
+            case "K":
                 if (CanAttack(blackKing[0], blackKing[1], whiteQueen[0], whiteQueen[1], "Король"))
                     Console.WriteLine("Чорний король здійснює напад на білого ферзя.");
                 else
@@ -76,7 +104,6 @@ class ChessGame
                 break;
         }
     }
-
     // Перевіряє, чи координати в межах шахівниці
     static bool IsValidPosition(int[] pos)
     {
@@ -88,4 +115,5 @@ class ChessGame
     {
         return pos1[0] == pos2[0] && pos1[1] == pos2[1];
     }
+    
 }
