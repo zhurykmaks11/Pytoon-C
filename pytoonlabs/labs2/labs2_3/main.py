@@ -16,11 +16,11 @@ while True:
         if 1 <= wagon_number <= NUM_WAGONS:
             break
         else:
-            print("Будь ласка, введіть число від 1 до 10.")
+            print("Введіть число від 1 до 10.")
     except ValueError:
         print("Будь ласка, введіть коректне число.")
 
-# Перевіряємо наявність вільних місць
+
 selected_wagon = train[wagon_number - 1]
 free_seats = selected_wagon.count(0)
 

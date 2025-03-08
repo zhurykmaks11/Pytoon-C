@@ -9,7 +9,6 @@ def swap_max_element(arr1, arr2  ):
         return arr1, arr2
     max1, index1 = max(arr1), arr1.index(max(arr1))
     max2, index2 = max(arr2), arr2.index(max(arr2))
-
     arr1[index1], arr2[index2] = arr2[index2], arr1[index1]
     return arr1, arr2
 def print_array(name, arr):

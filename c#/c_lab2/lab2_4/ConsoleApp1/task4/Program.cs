@@ -5,15 +5,13 @@ class JaggedArrayTask
     static void Main()
     {
         Random random = new Random();
-
-        // Введення кількості рядків
+        
         Console.Write("Введіть кількість рядків (n): ");
         int n = int.Parse(Console.ReadLine());
 
-        // Створення зубчастого масиву
+   
         int[][] jaggedArray = new int[n][];
         
-        // Заповнення масиву випадковими числами та виведення його
         Console.WriteLine("\nЗгенерований зубчастий масив:");
         for (int i = 0; i < n; i++)
         {
@@ -23,20 +21,19 @@ class JaggedArrayTask
 
             for (int j = 0; j < m; j++)
             {
-                jaggedArray[i][j] = random.Next(-50, 50); // Числа в діапазоні -50…49
+                jaggedArray[i][j] = random.Next(-50, 50); 
             }
 
             Console.WriteLine($"Рядок {i + 1}: " + string.Join(" ", jaggedArray[i]));
         }
-
-        // Введення порогового значення
+        
         Console.Write("\nВведіть порогове значення: ");
         int threshold = int.Parse(Console.ReadLine());
 
         // Масив для збереження кількості елементів, більших за порогове значення
         int[] countArray = new int[n];
 
-        // Підрахунок кількості елементів, що перевищують поріг
+        // Підрахунок кількості елеме що перевищують поріг
         for (int i = 0; i < n; i++)
         {
             int count = 0;
