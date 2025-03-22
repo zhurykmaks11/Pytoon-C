@@ -1,0 +1,9 @@
+ call phone,with start of 095
+Прізвище: zhuryk, Ім'я: david, По-батькові: ivnovich
+Адреса: Ukraine, 58001, Chernivtsi, Street, 4, 35
+Телефон: 0955865899
+
+Прізвище: sandyk, Ім'я: david, По-батькові: ivnovich
+Адреса: Ukraine, 58001, Chernivtsi, Street, 4, 35
+Телефон: 0955865899
+

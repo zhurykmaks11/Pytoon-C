@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8940fd82-96ff-4a25-8620-fafde518bc2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/.idea/.idea.WpfApp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/.idea/.idea.WpfApp1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/.idea/.idea.WpfApp1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/.idea/.idea.WpfApp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/WpfApp1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/bin/Debug/net8.0-windows/WpfApp1.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/bin/Debug/net8.0-windows/WpfApp1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/bin/Debug/net8.0-windows/WpfApp1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/bin/Debug/net8.0-windows/WpfApp1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/bin/Debug/net8.0-windows/WpfApp1.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/WpfApp1_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/ref/WpfApp1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/Debug/net8.0-windows/refint/WpfApp1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/WpfApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/WpfApp1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/WpfApp1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3_1/WpfApp1/WpfApp1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/.idea/.idea.WpfApp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/.idea/.idea.WpfApp2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/.idea/.idea.WpfApp2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/.idea/.idea.WpfApp2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/WpfApp2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/bin/Debug/net8.0-windows/WpfApp2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/bin/Debug/net8.0-windows/WpfApp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/bin/Debug/net8.0-windows/WpfApp2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/bin/Debug/net8.0-windows/WpfApp2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/bin/Debug/net8.0-windows/WpfApp2.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/WpfApp2_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/ref/WpfApp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/Debug/net8.0-windows/refint/WpfApp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/WpfApp2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/WpfApp2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/WpfApp2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WpfApp2/WpfApp2/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uMh4fRyMGrVle5mVVVdSRpfqfK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8940fd82-96ff-4a25-8620-fafde518bc2c" name="Changes" comment="" />
+      <created>1742064161489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742064161489</updated>
+      <workItem from="1742064162919" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
