@@ -1,0 +1,29 @@
+﻿<Window x:Class="ComputerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Комп'ютери" Height="350" Width="400">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Частота процесора (МГц)"/>
+            <TextBox Name="txtCPU"/>
+            
+            <TextBlock Text="Кількість ядер"/>
+            <TextBox Name="txtCores"/>
+            
+            <TextBlock Text="Оперативна пам'ять (МБ)"/>
+            <TextBox Name="txtRAM"/>
+            
+            <TextBlock Text="Обсяг жорсткого диска (ГБ)"/>
+            <TextBox Name="txtHDD"/>
+            
+            <TextBlock Text="Тривалість автономної роботи (хв.)"/>
+            <TextBox Name="txtBattery"/>
+            
+            <TextBlock Text="Вага (кг)"/>
+            <TextBox Name="txtWeight"/>
+            
+            <Button Content="Показати інформацію" Click="BtnShowInfo_Click"/>
+            <TextBlock Name="txtOutput" TextWrapping="Wrap"/>
+        </StackPanel>
+    </Grid>
+</Window>

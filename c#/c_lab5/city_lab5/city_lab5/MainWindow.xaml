@@ -1,0 +1,32 @@
+﻿<Window x:Class="city_lab5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="City Info" Height="400" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Назва міста:"/>
+            <TextBox x:Name="txtCityName"/>
+            
+            <TextBlock Text="Країна:"/>
+            <TextBox x:Name="txtCountry"/>
+
+            <TextBlock Text="Населення:"/>
+            <TextBox x:Name="txtPopulation"/>
+
+            <TextBlock Text="Площа:"/>
+            <TextBox x:Name="txtArea"/>
+
+            <TextBlock Text="Мер:"/>
+            <TextBox x:Name="txtMayor"/>
+
+            <TextBlock Text="Рік заснування:"/>
+            <TextBox x:Name="txtFoundedYear"/>
+
+            <CheckBox x:Name="chkMetro" Content="Має метро?"/>
+
+            <Button Content="Зберегти" Click="SaveCity"/>
+            <Button Content="Показати інформацію" Click="ShowCityInfo"/>
+            <TextBlock x:Name="txtOutput"/>
+        </StackPanel>
+    </Grid>
+</Window>
