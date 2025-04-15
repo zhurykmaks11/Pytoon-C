@@ -1,0 +1,36 @@
+﻿<Window x:Class="StreetWatering.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Полив вулиць" Height="600" Width="700">
+    <Grid Margin="10">
+        <StackPanel>
+
+            <TextBlock Text="Додати вулицю:" FontWeight="Bold" FontSize="14"/>
+
+            <TextBlock Text="Назва вулиці"/>
+            <TextBox x:Name="NameBox" Margin="0,5"/>
+
+            <TextBlock Text="Довжина (км)"/>
+            <TextBox x:Name="LengthBox" Margin="0,5"/>
+
+            <TextBlock Text="Кількість будинків"/>
+            <TextBox x:Name="BuildingsBox" Margin="0,5"/>
+
+            <TextBlock Text="Тип покриття"/>
+            <TextBox x:Name="SurfaceBox" Margin="0,5"/>
+
+            <Button Content="Додати" Click="AddStreet_Click" Margin="0,10"/>
+
+            <Separator/>
+
+            <Button Content="Показати всі вулиці" Click="ShowAll_Click" Margin="0,5"/>
+            <Button Content="Вулиці з подвійним поливом" Click="ShowDoubleWatering_Click" Margin="0,5"/>
+
+            <TextBlock Text="Вивід значення за індексом (0–3):" Margin="0,10,0,0"/>
+            <TextBox x:Name="IndexBox" Width="50" Margin="0,5"/>
+            <Button Content="Показати елемент 1-ї вулиці" Click="ShowElementByIndex_Click"/>
+
+            <ListBox x:Name="StreetList" Height="300" Margin="0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>
